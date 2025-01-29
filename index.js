@@ -302,7 +302,7 @@ $(document).ready(function () {
         allowEscapeKey: false,
         allowEnterKey: false,
       }).then((result) => {
-        window.location.href = "http://127.0.0.1/puzzle/birthday/";
+        window.location.href = "https://ckvggwp.github.io/birthday/";
       });
     }
   }
