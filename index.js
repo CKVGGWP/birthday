@@ -302,7 +302,7 @@ $(document).ready(function () {
         allowEscapeKey: false,
         allowEnterKey: false,
       }).then((result) => {
-        window.location.href = "https://ckvggwp.github.io/birthday/";
+        window.location.href = "https://ckvggwp.github.io/birthday/birthday/";
       });
     }
   }
